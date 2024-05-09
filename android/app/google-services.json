@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "750733026571",
+    "project_id": "tow-2-tow-prototype",
+    "storage_bucket": "tow-2-tow-prototype.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:750733026571:android:f316f4462f2dd303bdae0e",
+        "android_client_info": {
+          "package_name": "com.tow2tow.prototype"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "750733026571-q7t0n9spcuqvah0rmad1v4mb75k09mg3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0z47l0i4L18-n9jC4Cckuop5b8el3BQE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "750733026571-q7t0n9spcuqvah0rmad1v4mb75k09mg3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
